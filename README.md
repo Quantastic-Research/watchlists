@@ -21,7 +21,7 @@ The suggested file structure to use this library is:
 ```
 root/
 |-- watchlists/
-|   |-- __init____.py
+|   |-- __init__.py
 |   |-- watchlists.py
 |   |-- README.md
 |   |-- archive/_placeholder.txt
