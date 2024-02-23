@@ -1,0 +1,3 @@
+from watchlists.watchlists import Watchlist
+from watchlists.watchlists import create_watchlist
+from watchlists.watchlists import merge_watchlists

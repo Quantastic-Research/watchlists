@@ -1,0 +1,5 @@
+title = "DOW30"
+version = "1"
+comment = "This is a watchlist of DOW30 stocks."
+date = "2024-01-01"
+stocks = ["AAPL", "AMGN", "AXP", "BA", "CAT", "CRM", "CSCO", "CVX", "DIS", "DOW", "GS", "HD", "HON", "IBM", "INTC", "JNJ", "JPM", "KO", "MCD", "MMM", "MRK", "MSFT", "NKE", "PG", "TRV", "UNH", "V", "VZ", "WBA", "WMT"]

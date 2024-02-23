@@ -1,0 +1,6 @@
+title = "New_Watchlist.toml"
+stocks = ["AAPL", "AMGN", "AXP", "BA", "CAT", "CRM", "CSCO", "CVX", "DIS", "DOW", "GS", "HD", "HON", "IBM", "INTC", "JNJ", "JPM", "KO", "MCD", "META", "MMM", "MRK", "MSFT", "NKE", "PG", "TRV", "TSLA", "UNH", "V", "VZ", "WBA", "WMT"]
+version = "1"
+date = "2024-02-23"
+index = "S&P500"
+sector = "Technology"

@@ -1,0 +1,6 @@
+title = "SP500.toml"
+stocks = ["META", "TSLA"]
+version = "1"
+date = "2024-01-02"
+index = "S&P500"
+sector = "Technology"
