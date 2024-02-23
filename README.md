@@ -35,7 +35,7 @@ Where the code you write is located in the `run.py` file.
 ### Creating a Watchlist
 You must create a watchlist using the create_watchlist() function.
 
-```
+```py
 from watchlists import Watchlist, create_watchlist
 
 name = "SP500.toml"
