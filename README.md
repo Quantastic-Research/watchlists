@@ -58,7 +58,7 @@ You can use the watchlist object to interact with the watchlist variables. Featu
     - `wl.add_ticker("AAPL")`
     - `wl.delete_ticker("AAPL")`
     - `wl.get_list()` (returns a Python list)
-- Adding, deleting, updatng, and reading meta data
+- Adding, deleting, updating, and reading meta data
     - `wl.add_meta_data(key, value)`
     - `wl.delete_meta_data(key)`
     - `wl.update_meta_data(key, value)`
